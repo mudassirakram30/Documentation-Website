@@ -85,3 +85,37 @@
 .About {
     background-color: #F5F7FA;
 }
+.middle-img {
+    width: 80%;
+    margin: 20px auto;
+}
+.middle-img > img {
+    width: 100%;
+    border-radius: 10px;
+}
+.custom-cards {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.footer-container {
+    display: flex;
+    justify-content: space-around ;
+    background-color: #263238;
+    color: white;
+    padding: 20px;
+}
+.footer-left > img {
+    width: 150px;
+}
+.subscribe-box-input {
+    background-color: #1e2529;
+}
+.subscribe-button {
+    background-color: #1e2529;
+}
+.text-none {
+    text-decoration: none;
+    color: #F5F7FA;
+}
